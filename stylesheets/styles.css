@@ -976,3 +976,90 @@ article p:nth-child(2) {
 #vert-nav ul li:nth-child(14) {
   background: #ffff4d;
 }
+
+/* line 252, ../sass/styles.scss */
+.baseball-stats table {
+  border: 4px solid #001A57;
+}
+/* line 2, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_scaffolding.scss */
+.baseball-stats table th {
+  text-align: center;
+  font-weight: bold;
+}
+/* line 5, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_scaffolding.scss */
+.baseball-stats table td,
+.baseball-stats table th {
+  padding: 2px;
+}
+/* line 8, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_scaffolding.scss */
+.baseball-stats table td.numeric,
+.baseball-stats table th.numeric {
+  text-align: right;
+}
+/* line 16, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+.baseball-stats table th, .baseball-stats table td {
+  border-right: 4px solid #00647D;
+  border-bottom: 4px solid #00647D;
+  border-left-width: 0;
+  border-top-width: 0;
+}
+/* line 22, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+.baseball-stats table th:last-child, .baseball-stats table td:last-child {
+  border-right-width: 0;
+}
+/* line 28, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+.baseball-stats table th.last, .baseball-stats table td.last {
+  border-right-width: 0;
+}
+/* line 33, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+.baseball-stats table tbody tr:last-child th, .baseball-stats table tbody tr:last-child td, .baseball-stats table tfoot tr:last-child th, .baseball-stats table tfoot tr:last-child td {
+  border-bottom-width: 0;
+}
+/* line 37, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+.baseball-stats table tbody tr.last th, .baseball-stats table tbody tr.last td, .baseball-stats table tfoot tr.last th, .baseball-stats table tfoot tr.last td {
+  border-bottom-width: 0;
+}
+/* line 6, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+.baseball-stats table thead th {
+  border-bottom: 4px solid #001A57;
+}
+/* line 9, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+.baseball-stats table tfoot th, .baseball-stats table tfoot td {
+  border-top: 4px solid #001A57;
+}
+/* line 12, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+.baseball-stats table th:first-child {
+  border-right: 4px solid #001A57;
+}
+/* line 2, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+.baseball-stats table th {
+  background-color: #FFFFFF;
+}
+/* line 4, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+.baseball-stats table th.even, .baseball-stats table th:nth-child(2n) {
+  background-color: #ff9b82;
+}
+/* line 8, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+.baseball-stats table tr.odd td, .baseball-stats table tr:nth-child(2n+1) td {
+  background-color: #B2BEB5;
+}
+/* line 10, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+.baseball-stats table tr.odd td.even, .baseball-stats table tr.odd td:nth-child(2n), .baseball-stats table tr:nth-child(2n+1) td.even, .baseball-stats table tr:nth-child(2n+1) td:nth-child(2n) {
+  background-color: #b25a38;
+}
+/* line 14, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+.baseball-stats table tr.even td {
+  background-color: #F0F8FF;
+}
+/* line 16, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+.baseball-stats table tr.even td.even, .baseball-stats table tr.even td:nth-child(2n) {
+  background-color: #f09482;
+}
+/* line 19, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+.baseball-stats table tfoot th, .baseball-stats table tfoot td {
+  background-color: white;
+}
+/* line 21, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+.baseball-stats table tfoot th.even, .baseball-stats table tfoot th:nth-child(2n), .baseball-stats table tfoot td.even, .baseball-stats table tfoot td:nth-child(2n) {
+  background-color: #ff9b82;
+}

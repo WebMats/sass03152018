@@ -246,6 +246,19 @@ $prct-yellow: 5%;
 	$prct-yellow: $prct-yellow + 5%
 }
 
+@import "compass/utilities/tables";
+
+.baseball-stats {
+	table {
+		@include table-scaffolding;
+
+		@include inner-table-borders(4px, $main-green);
+		@include outer-table-borders(4px, $duke-blue);
+
+		@include alternating-rows-and-columns($alice-blue, $ash-gray, $main-green, $white);
+	}
+}
+
 
 
 
