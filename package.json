@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/WebMats/sass03152018/issues"
   },
-  "homepage": "https://github.com/WebMats/sass03152018#readme"
+  "homepage": "https://github.com/WebMats/sass03152018#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
 }
