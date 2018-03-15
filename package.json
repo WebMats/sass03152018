@@ -1,0 +1,20 @@
+{
+  "name": "sass03152018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebMats/sass03152018.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebMats/sass03152018/issues"
+  },
+  "homepage": "https://github.com/WebMats/sass03152018#readme"
+}
