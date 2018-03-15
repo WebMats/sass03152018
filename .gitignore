@@ -6,7 +6,7 @@
 *.exe
 *.o
 *.so
-.html
+*.html
 
 
 # Packages #
